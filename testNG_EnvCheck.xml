@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="ExposureHub_Environment_Check" verbose="4" parallel="none" thread-count="2">
+
+	<listeners>
+		<listener
+			class-name="ehub.com.listeners.ExtentReportListener" />
+
+		<listener
+			class-name="ehub.com.listeners.TestAllureListener" />
+	</listeners>
+
+	<test name="Test Environment check working status" enabled="true">
+		<classes>
+			<class name="Test.Test_EnvironmentCheckPageTest"></class>
+		</classes>
+	</test>
+
+	<test name="Test V2 Environment check working status" enabled="false">
+		<classes>
+			<class name="Test.Test_V2_EnvironmentCheckPageTest"></class>
+		</classes>
+	</test>
+
+	<test name="Test V3 Environment check working status" enabled="false">
+		<classes>
+			<class name="Test.Test_V3_EnvironmentCheckPageTest"></class>
+		</classes>
+	</test>
+
+	<test name="Perf Environment check working status" enabled="false">
+		<classes>
+			<class name="Test.Perf_EnvironmentCheckPageTest"></class>
+		</classes>
+	</test>
+
+	<test name="Dev Environment check working status" enabled="false">
+		<classes>
+			<class name="Test.Dev_EnvironmentCheckPageTest"></class>
+		</classes>
+	</test>
+	
+	<test name="POC_1 Environment check working status" enabled="false">
+		<classes>
+			<class name="Test.POC_1_EnvironmentCheckPageTest"></class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,84 @@
+2024-09-04 11:09:823 INFO  BaseClass:77 - chrome : is launched successfully
+2024-09-04 11:09:379 INFO  BaseClass:104 - Enter URL : https://test-eh.ebixexchange.com/login
+2024-09-04 11:09:576 INFO  BaseClass:119 - Test_Env_doLogin test is Started
+2024-09-04 11:09:340 INFO  LoginPage:96 - Enter Username : XXXXX
+2024-09-04 11:09:699 INFO  LoginPage:102 - Enter Password : XXXXX
+2024-09-04 11:09:902 INFO  LoginPage:107 - Clicked on Login
+2024-09-04 11:09:839 INFO  BaseClass:119 - Test_Env_verifyUserLogin test is Started
+2024-09-04 11:09:845 INFO  LoginPage:118 - Verify User Login
+2024-09-04 11:09:974 INFO  BaseClass:119 - Test_Env_verifyPolicyPage test is Started
+2024-09-04 11:09:523 INFO  BaseClass:119 - Test_Env_verifyPolicyDataShowing test is Started
+2024-09-04 11:09:149 INFO  BaseClass:119 - Test_Env_verifyReportPage test is Started
+2024-09-04 11:09:348 INFO  BaseClass:119 - Test_Env_verifyReportDataShowing test is Started
+2024-09-04 11:09:171 INFO  BaseClass:119 - Test_Env_verifyResultPage test is Started
+2024-09-04 11:09:188 INFO  BaseClass:119 - Test_Env_verifyResultDataShowing test is Started
+2024-09-04 11:09:504 INFO  BaseClass:77 - chrome : is launched successfully
+2024-09-04 11:09:146 INFO  BaseClass:104 - Enter URL : https://test-v2-eh.ebixexchange.com/login
+2024-09-04 11:09:292 INFO  BaseClass:119 - Test_V2_Env_doLogin test is Started
+2024-09-04 11:09:424 INFO  LoginPage:96 - Enter Username : XXXXX
+2024-09-04 11:09:870 INFO  LoginPage:102 - Enter Password : XXXXX
+2024-09-04 11:09:49 INFO  LoginPage:107 - Clicked on Login
+2024-09-04 11:09:764 INFO  BaseClass:119 - Test_V2_Env_verifyUserLogin test is Started
+2024-09-04 11:09:769 INFO  LoginPage:118 - Verify User Login
+2024-09-04 11:09:439 INFO  BaseClass:119 - Test_V2_Env_verifyPolicyPage test is Started
+2024-09-04 11:09:520 INFO  BaseClass:119 - Test_V2_Env_verifyPolicyDataShowing test is Started
+2024-09-04 11:09:966 INFO  BaseClass:119 - Test_V2_Env_verifyReportPage test is Started
+2024-09-04 11:09:447 INFO  BaseClass:119 - Test_V2_Env_verifyReportDataShowing test is Started
+2024-09-04 11:09:909 INFO  BaseClass:119 - Test_V2_Env_verifyResultPage test is Started
+2024-09-04 11:09:380 INFO  BaseClass:119 - Test_V2_Env_verifyResultDataShowing test is Started
+2024-09-04 11:09:491 INFO  BaseClass:77 - chrome : is launched successfully
+2024-09-04 11:09:440 INFO  BaseClass:104 - Enter URL : https://test-v3-eh.ebixexchange.com/login
+2024-09-04 11:09:740 INFO  BaseClass:119 - Test_V3_Env_doLogin test is Started
+2024-09-04 11:09:594 INFO  LoginPage:96 - Enter Username : XXXXX
+2024-09-04 11:09:12 INFO  LoginPage:102 - Enter Password : XXXXX
+2024-09-04 11:09:274 INFO  LoginPage:107 - Clicked on Login
+2024-09-04 11:09:919 INFO  BaseClass:119 - Test_V3_Env_verifyUserLogin test is Started
+2024-09-04 11:09:929 INFO  LoginPage:118 - Verify User Login
+2024-09-04 11:09:73 INFO  BaseClass:119 - Test_V3_Env_verifyPolicyPage test is Started
+2024-09-04 11:09:771 INFO  BaseClass:119 - Test_V3_Env_verifyPolicyDataShowing test is Started
+2024-09-04 11:09:804 INFO  BaseClass:119 - Test_V3_Env_verifyReportPage test is Started
+2024-09-04 11:09:67 INFO  BaseClass:119 - Test_V3_Env_verifyReportDataShowing test is Started
+2024-09-04 11:09:135 INFO  BaseClass:119 - Test_V3_Env_verifyResultPage test is Started
+2024-09-04 11:09:219 INFO  BaseClass:119 - Test_V3_Env_verifyResultDataShowing test is Started
+2024-09-04 11:09:582 INFO  BaseClass:77 - chrome : is launched successfully
+2024-09-04 11:09:904 INFO  BaseClass:104 - Enter URL : https://perf-eh.ebixexchange.com/login
+2024-09-04 11:09:187 INFO  BaseClass:119 - Perf_Env_doLogin test is Started
+2024-09-04 11:09:953 INFO  LoginPage:96 - Enter Username : XXXXX
+2024-09-04 11:09:291 INFO  LoginPage:102 - Enter Password : XXXXX
+2024-09-04 11:09:541 INFO  LoginPage:107 - Clicked on Login
+2024-09-04 11:09:424 INFO  BaseClass:119 - Perf_Env_verifyUserLogin test is Started
+2024-09-04 11:09:426 INFO  LoginPage:118 - Verify User Login
+2024-09-04 11:09:628 INFO  BaseClass:119 - Perf_Env_verifyPolicyPage test is Started
+2024-09-04 11:09:216 INFO  BaseClass:119 - Perf_Env_verifyPolicyDataShowing test is Started
+2024-09-04 11:09:848 INFO  BaseClass:119 - Perf_Env_verifyReportPage test is Started
+2024-09-04 11:09:572 INFO  BaseClass:119 - Perf_Env_verifyReportDataShowing test is Started
+2024-09-04 11:09:178 INFO  BaseClass:119 - Perf_Env_verifyResultPage test is Started
+2024-09-04 11:09:274 INFO  BaseClass:119 - Perf_Env_verifyResultDataShowing test is Started
+2024-09-04 11:09:938 INFO  BaseClass:77 - chrome : is launched successfully
+2024-09-04 11:09:554 INFO  BaseClass:104 - Enter URL : https://dev-eh.ebixexchange.com/login
+2024-09-04 11:09:643 INFO  BaseClass:119 - Dev_Env_doLogin test is Started
+2024-09-04 11:09:489 INFO  LoginPage:96 - Enter Username : XXXXX
+2024-09-04 11:09:238 INFO  LoginPage:102 - Enter Password : XXXXX
+2024-09-04 11:09:607 INFO  LoginPage:107 - Clicked on Login
+2024-09-04 11:09:269 INFO  BaseClass:119 - Dev_Env_verifyUserLogin test is Started
+2024-09-04 11:09:272 INFO  LoginPage:118 - Verify User Login
+2024-09-04 11:09:394 INFO  BaseClass:119 - Dev_Env_verifyPolicyPage test is Started
+2024-09-04 11:09:901 INFO  BaseClass:119 - Dev_Env_verifyPolicyDataShowing test is Started
+2024-09-04 11:09:438 INFO  BaseClass:119 - Dev_Env_verifyReportPage test is Started
+2024-09-04 11:09:190 INFO  BaseClass:119 - Dev_Env_verifyReportDataShowing test is Started
+2024-09-04 11:09:285 INFO  BaseClass:119 - Dev_Env_verifyResultPage test is Started
+2024-09-04 11:09:251 INFO  BaseClass:119 - Dev_Env_verifyResultDataShowing test is Started
+2024-09-04 11:09:992 INFO  BaseClass:77 - chrome : is launched successfully
+2024-09-04 11:09:877 INFO  BaseClass:104 - Enter URL : https://poc-eh.ebixexchange.com/login
+2024-09-04 11:09:957 INFO  BaseClass:119 - POC_1_Env_doLogin test is Started
+2024-09-04 11:09:708 INFO  LoginPage:96 - Enter Username : XXXXX
+2024-09-04 11:09:94 INFO  LoginPage:102 - Enter Password : XXXXX
+2024-09-04 11:09:301 INFO  LoginPage:107 - Clicked on Login
+2024-09-04 11:09:873 INFO  BaseClass:119 - POC_1_Env_verifyUserLogin test is Started
+2024-09-04 11:09:876 INFO  LoginPage:118 - Verify User Login
+2024-09-04 11:09:324 INFO  BaseClass:119 - POC_1_Env_verifyPolicyPage test is Started
+2024-09-04 11:09:431 INFO  BaseClass:119 - POC_1_Env_verifyPolicyDataShowing test is Started
+2024-09-04 11:09:504 INFO  BaseClass:119 - POC_1_Env_verifyReportPage test is Started
+2024-09-04 11:09:250 INFO  BaseClass:119 - POC_1_Env_verifyReportDataShowing test is Started
+2024-09-04 11:09:382 INFO  BaseClass:119 - POC_1_Env_verifyResultPage test is Started
+2024-09-04 11:09:868 INFO  BaseClass:119 - POC_1_Env_verifyResultDataShowing test is Started
