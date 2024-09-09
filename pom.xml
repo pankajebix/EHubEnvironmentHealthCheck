@@ -121,9 +121,9 @@
 				<version>3.2.5</version>
 				<configuration>
 					<testFailureIgnore>true</testFailureIgnore>
-					<!--<argLine>
+					<argLine>
 						-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
-					</argLine>-->
+					</argLine>
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
 						<suiteXmlFile>testNG_EnvCheck.xml</suiteXmlFile>
